@@ -20,8 +20,8 @@
 <ul>
 <li>310 College St (~0 alwest)</li>
 <li><a href="http://grasshopperrestaurant.ca/menu/college_menu.pdf">Menu</a></li>
-<li>All items vegan; many gluten-free options;</li>
-<li>Washroom</li>
+<li>All items vegan; many gluten-free items/options; many items contain soy and/or nuts</li>
+<li>Washrooms in basement down steep flight of stairs</li>
 <li>To do: check if there is a step at entrance</li>
 </ul>
 </li>
@@ -29,7 +29,7 @@
 <ul>
 <li>17 Baldwin St (~15 min walk south)</li>
 <li><a href="http://www.vegetarianhaven.com/dinner-menu/">Menu</a></li>
-<li>All items vegan, many gluten-free options, many items contain soy and/or buts</li>
+<li>All items vegan; many gluten-free items/options; many items contain soy and/or buts</li>
 <li>Washrooms in basement down steep flight of stairs</li>
 <li>Entrance has a ramp</li>
 </ul>
@@ -41,5 +41,5 @@
 <p><a href="#table-of-contents"><strong>Table of Contents</strong></a></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMTkxMTgzNF19
+eyJoaXN0b3J5IjpbMTYxNzkwNjgzMl19
 -->
