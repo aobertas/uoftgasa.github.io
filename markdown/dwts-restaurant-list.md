@@ -18,7 +18,7 @@
 <ul>
 <li><a href="http://grasshopperrestaurant.ca/">Grasshopper</a>
 <ul>
-<li>310 College St (~0 alwest)</li>
+<li>310 College St (~10 min walk southwest)</li>
 <li><a href="http://grasshopperrestaurant.ca/menu/college_menu.pdf">Menu</a></li>
 <li>All items vegan; many gluten-free items/options; many items contain soy and/or nuts</li>
 <li>Washrooms in basement down steep flight of stairs</li>
@@ -41,5 +41,5 @@
 <p><a href="#table-of-contents"><strong>Table of Contents</strong></a></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzIwMDU2Ml19
+eyJoaXN0b3J5IjpbMTgzMjYyNjU1OCwtNzY3MjAwNTYyXX0=
 -->
