@@ -1,7 +1,7 @@
 # DWTS Restaurant List
 This is a list of some restaurants to take the colloquium speaker or other visitors for lunches or dinners. 
 
-[Back to main pa
+[Back to main page](https://uoftgasa.github.io/#gasa)
 
 
 ## Table of Contents
@@ -17,12 +17,15 @@ This is a list of some restaurants to take the colloquium speaker or other visit
 ### Vegetarian and Vegan
 [**Table of Contents**](#table-of-contents)
 
+- [Grasshopper](http://grasshopperrestaurant.ca/)
+	- 
+
 ### Canadian and American
 [**Table of Contents**](#table-of-contents)
 
 ## Map
 [**Table of Contents**](#table-of-contents)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODgxMjMyMiwxNDA0NTgwMTA1LC0xMD
-M1MjE2OTQ0LDEwNzA4NjU5NzldfQ==
+eyJoaXN0b3J5IjpbLTEwNjc5MTgzNDMsMTQwNDU4MDEwNSwtMT
+AzNTIxNjk0NCwxMDcwODY1OTc5XX0=
 -->
