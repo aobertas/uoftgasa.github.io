@@ -18,6 +18,8 @@ This is a list of some restaurants to take the colloquium speaker or other visit
 [**Table of Contents**](#table-of-contents)
 
 - [Grasshopper](http://grasshopperrestaurant.ca/)
+	- 310 College St (~10 min walk southwest)
+	- [Menu](http://grasshopperrestaurant.ca/menu/college_menu.pdf)
 	- 
 
 ### Canadian and American
@@ -26,6 +28,6 @@ This is a list of some restaurants to take the colloquium speaker or other visit
 ## Map
 [**Table of Contents**](#table-of-contents)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjc5MTgzNDMsMTQwNDU4MDEwNSwtMT
-AzNTIxNjk0NCwxMDcwODY1OTc5XX0=
+eyJoaXN0b3J5IjpbMTQ2NTE1NTQwOSwxNDA0NTgwMTA1LC0xMD
+M1MjE2OTQ0LDEwNzA4NjU5NzldfQ==
 -->
