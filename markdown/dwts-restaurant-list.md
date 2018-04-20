@@ -34,7 +34,7 @@
 <ul>
 <li>17 Baldwin St (~15 min walk south)</li>
 <li><a href="http://www.vegetarianhaven.com/dinner-menu/">Menu</a></li>
-<li>All items vegan; many gluten-free items/options; many items contain soy and/or buts</li>
+<li>All items vegan many gluten-free items/options many items contain soy and/or buts</li>
 <li>Washrooms in basement down steep flight of stairs</li>
 <li>Entrance has a ramp</li>
 </ul>
@@ -45,3 +45,6 @@
 <h2 id="map">Map</h2>
 <p><a href="#table-of-contents"><strong>Table of Contents</strong></a></p>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzMDAxNDA1MTZdfQ==
+-->
