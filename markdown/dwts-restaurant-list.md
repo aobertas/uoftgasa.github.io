@@ -25,7 +25,7 @@
 <li>To do: check if there is a step at entrance</li>
 </ul>
 </li>
-<li><a href="">Vegetarian Haven</a>
+<li><a href="http://www.vegetarianhaven.com/">Vegetarian Haven</a>
 <ul>
 <li>17 Baldwin St (~15 min walk south)</li>
 <li><a href="http://www.vegetarianhaven.com/dinner-menu/">Menu</a></li>
@@ -41,5 +41,5 @@
 <p><a href="#table-of-contents"><strong>Table of Contents</strong></a></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMjYyNjU1OCwtNzY3MjAwNTYyXX0=
+eyJoaXN0b3J5IjpbMTE0NjgxOTU0MSwtNzY3MjAwNTYyXX0=
 -->
