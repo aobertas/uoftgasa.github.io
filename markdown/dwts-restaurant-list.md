@@ -3,17 +3,17 @@ This is a list of some restaurants to take the colloquium speaker or other visit
 ## Table of Contents
 
 - [Restaurant List](#restaurant-list)
-	- [Vegetarian & Vegan](#veg)
-	- [Canadian/American](#canam)
+	- [Vegetarian and Vegan](#vegetarian-and-vegan)
+	- [Canadian and American](#canadian-and-american)
 - [Map](#map)
 
 ##  Restaurant List
 [**Table of Contents**](#table-of-contents)
 
-### Vegetarian & Vegan
+### Vegetarian and Vegan
 [**Table of Contents**](#table-of-contents)
 
-### Canadian/American
+### Canadian and American
 [**Table of Contents**](#table-of-contents)
 
 ## Map
@@ -23,6 +23,6 @@ This is a list of some restaurants to take the colloquium speaker or other visit
 [**Table of Contents**](#table-of-contents)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNDU4MDEwNSwtMTAzNTIxNjk0NCwxMD
-cwODY1OTc5XX0=
+eyJoaXN0b3J5IjpbLTE5MTI1OTA2MjksMTQwNDU4MDEwNSwtMT
+AzNTIxNjk0NCwxMDcwODY1OTc5XX0=
 -->
