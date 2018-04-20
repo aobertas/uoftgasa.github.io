@@ -23,7 +23,10 @@ This is a list of some restaurants to take the colloquium speaker or other visit
 	- All items vegan, many gluten-free options, many items contain soy and/or nuts
 	- Washrooms in basement down steep flight of stairs
 	- To do: check if there is a step at entrance
-- [Vegetarian Haven](
+- [Vegetarian Haven](http://www.vegetarianhaven.com/)
+	- 17 Baldwin St (~15 min walk south)
+	- [Menu](http://www.vegetarianhaven.com/dinner-menu/)
+	- All items vegan, 
 
 ### Canadian and American
 [**Table of Contents**](#table-of-contents)
@@ -31,6 +34,6 @@ This is a list of some restaurants to take the colloquium speaker or other visit
 ## Map
 [**Table of Contents**](#table-of-contents)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ1NTMwODIyLDE0NjUxNTU0MDksMTQwND
-U4MDEwNSwtMTAzNTIxNjk0NCwxMDcwODY1OTc5XX0=
+eyJoaXN0b3J5IjpbLTkyNTY1MjAxMCwxNDY1MTU1NDA5LDE0MD
+Q1ODAxMDUsLTEwMzUyMTY5NDQsMTA3MDg2NTk3OV19
 -->
