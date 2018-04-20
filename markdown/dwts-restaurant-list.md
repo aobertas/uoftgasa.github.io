@@ -1,5 +1,9 @@
 # DWTS Restaurant List
 This is a list of some restaurants to take the colloquium speaker or other visitors for lunches or dinners. 
+
+[Back to main pa
+
+
 ## Table of Contents
 
 - [Restaurant List](#restaurant-list)
@@ -18,11 +22,7 @@ This is a list of some restaurants to take the colloquium speaker or other visit
 
 ## Map
 [**Table of Contents**](#table-of-contents)
-
-```
-[**Table of Contents**](#table-of-contents)
-```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTI1OTA2MjksMTQwNDU4MDEwNSwtMT
-AzNTIxNjk0NCwxMDcwODY1OTc5XX0=
+eyJoaXN0b3J5IjpbLTIzODgxMjMyMiwxNDA0NTgwMTA1LC0xMD
+M1MjE2OTQ0LDEwNzA4NjU5NzldfQ==
 -->
