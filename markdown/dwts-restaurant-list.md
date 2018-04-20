@@ -1,9 +1,14 @@
+---
+
+
+---
+
 <h1 id="dwts-restaurant-list">DWTS Restaurant List</h1>
 <p>This is a list of some restaurants to take the colloquium speaker or other visitors for lunches or dinners.</p>
 <p><a href="https://uoftgasa.github.io/#gasa">Back to main page</a></p>
 <h2 id="table-of-contents">Table of Contents</h2>
 <ul>
-<li><a href="#restaurant-list">Restaurant List</a>
+<li><a href="#restaurant-list">Restaurant List </a>
 <ul>
 <li><a href="#vegetarian-and-vegan">Vegetarian and Vegan</a></li>
 <li><a href="#canadian-and-american">Canadian and American</a></li>
@@ -13,7 +18,7 @@
 </ul>
 <h2 id="restaurant-list">Restaurant List</h2>
 <p><a href="#table-of-contents"><strong>Table of Contents</strong></a></p>
-<h3 id="vegetarian-and-vegan">Vegetari and Vegan</h3>
+<h3 id="vegetarian-and-vegan">Vegetarian and Vegan</h3>
 <p><a href="#table-of-contents"><strong>Table of Contents</strong></a></p>
 <ul>
 <li><a href="http://grasshopperrestaurant.ca/">Grasshopper</a>
@@ -29,7 +34,7 @@
 <ul>
 <li>17 Baldwin St (~15 min walk south)</li>
 <li><a href="http://www.vegetarianhaven.com/dinner-menu/">Menu</a></li>
-<li>All items vegan many gluten-free items/options many items contain soy and/or buts</li>
+<li>All items vegan; many gluten-free items/options; many items contain soy and/or nuts</li>
 <li>Washrooms in basement down steep flight of stairs</li>
 <li>Entrance has a ramp</li>
 </ul>
@@ -40,6 +45,3 @@
 <h2 id="map">Map</h2>
 <p><a href="#table-of-contents"><strong>Table of Contents</strong></a></p>
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NjgxOTU0MSwtNzY3MjAwNTYyXX0=
--->
