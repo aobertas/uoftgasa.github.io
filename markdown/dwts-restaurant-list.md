@@ -1,7 +1,3 @@
----
-
-<hr>
-<hr>
 <h1 id="dwts-restaurant-list">DWTS Restaurant List</h1>
 <p>This is a list of some restaurants to take the colloquium speaker or other visitors for lunches or dinners.</p>
 <p><a href="https://uoftgasa.github.io/#gasa">Back to main page</a></p>
@@ -24,7 +20,7 @@
 <ul>
 <li>310 College St (~0 alwest)</li>
 <li><a href="http://grasshopperrestaurant.ca/menu/college_menu.pdf">Menu</a></li>
-<li>All ite cnuts</li>
+<li>All items vegan; many gluten-free options;</li>
 <li>Washroom</li>
 <li>To do: check if there is a step at entrance</li>
 </ul>
@@ -45,5 +41,5 @@
 <p><a href="#table-of-contents"><strong>Table of Contents</strong></a></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MzQ0MDcyNF19
+eyJoaXN0b3J5IjpbLTIzMTkxMTgzNF19
 -->
