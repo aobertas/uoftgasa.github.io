@@ -5,22 +5,9 @@ This is a list of some restaurants to take the colloquium speaker or other visit
 - [Restaurant List](#restaurant-list)
 	- [Vegetarian & Vegan](#veg)
 	- [Canadian/American](#canam)
-- [Map](#edit-the-markdown)
-	- [Adding new files](#adding-new-files)
-	- [Changing existing files](#changing-existing-files)
-	- [Publishing your file](#publishing-your-file)
-	- [Pull request](#pull-request)
-- [Style Guide](#style-guide)
+- [Map](#map)
 
-## Submit an Issue
-[**Table of Contents**](#table-of-contents)
-
-This option doesn't require you to edit anything about the grad guide, but it will take longer. On the github page for the [uoftgasa.github.io](https://github.com/uoftgasa/uoftgasa.github.io), you'll find the 'Issues' tab under the title of the repository. Click on this tab, and click 'create an issue'. This will open up a comment box where you can suggest changes to the guide. Its important that both your title and comment clearly describe what you want to change. An example issue might be titled *'Blue Food Truck Page*', with the comment 
->As a saving grace for all graduate students who forget to bring lunch, the blue food truck deserves its own page. The page should describe where the blue food truck parks and the prices for fries, hot dogs and poutine.'
-
-Submitting your issue will notify everyone who has access to the uoftgasa github account and everyone on the gasauoft gmail account. However, its up to those people to decide whether they think your suggestion is worth following up on, and whether they have time to do so. In the example above, they may reply asking you to provide the pricelist for the food truck, or they may simply deem the issue unimportant and close it. 
-
-##  Edit the Markdown
+##  Restaurant List
 [**Table of Contents**](#table-of-contents)
 
 If you feel a little more comfortable about modifying the guide yourself, you may want to try editing the Markdown documents used to generate the guide. These documents are converted into HTML, but Markdown is much more human readable. My favourite Markdown guide is [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
@@ -111,6 +98,6 @@ Until I figure out a better way to do this, every section should have a table of
 [**Table of Contents**](#table-of-contents)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDAwODI0NjAsLTEwMzUyMTY5NDQsMT
+eyJoaXN0b3J5IjpbLTExMzAxNDI3NjUsLTEwMzUyMTY5NDQsMT
 A3MDg2NTk3OV19
 -->
