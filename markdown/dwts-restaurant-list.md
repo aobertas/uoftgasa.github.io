@@ -3,7 +3,9 @@ This is a list of some restaurants to take the colloquium speaker or other visit
 ## Table of Contents
 
 - [Restaurant List](#restaurant-list)
-- [Edit the Markdown](#edit-the-markdown)
+	- [Vegetarian & Vegan](#veg)
+	- [Canadian/American](#canam)
+- [Map](#edit-the-markdown)
 	- [Adding new files](#adding-new-files)
 	- [Changing existing files](#changing-existing-files)
 	- [Publishing your file](#publishing-your-file)
@@ -109,6 +111,6 @@ Until I figure out a better way to do this, every section should have a table of
 [**Table of Contents**](#table-of-contents)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMzM1MjgwMywtMTAzNTIxNjk0NCwxMD
-cwODY1OTc5XX0=
+eyJoaXN0b3J5IjpbLTIxMDAwODI0NjAsLTEwMzUyMTY5NDQsMT
+A3MDg2NTk3OV19
 -->
