@@ -1,8 +1,5 @@
 ---
 
-
----
-
 <hr>
 <hr>
 <h1 id="dwts-restaurant-list">DWTS Restaurant List</h1>
@@ -48,5 +45,5 @@
 <p><a href="#table-of-contents"><strong>Table of Contents</strong></a></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1OTk3MzUzXX0=
+eyJoaXN0b3J5IjpbMjE0MzQ0MDcyNF19
 -->
