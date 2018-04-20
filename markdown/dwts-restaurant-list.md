@@ -1,3 +1,8 @@
+---
+
+
+---
+
 <h1 id="dwts-restaurant-list">DWTS Restaurant List</h1>
 <p>This is a list of some restaurants to take the colloquium speaker or other visitors for lunches or dinners.</p>
 <p><a href="https://uoftgasa.github.io/#gasa">Back to main page</a></p>
@@ -40,6 +45,3 @@
 <h2 id="map">Map</h2>
 <p><a href="#table-of-contents"><strong>Table of Contents</strong></a></p>
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNzkwNjgzMl19
--->
