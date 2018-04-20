@@ -20,7 +20,7 @@ This is a list of some restaurants to take the colloquium speaker or other visit
 - [Grasshopper](http://grasshopperrestaurant.ca/)
 	- 310 College St (~10 min walk southwest)
 	- [Menu](http://grasshopperrestaurant.ca/menu/college_menu.pdf)
-	- 
+	- All items vegan, many gluten-free options, many items contain soy and/or nuts
 
 ### Canadian and American
 [**Table of Contents**](#table-of-contents)
@@ -28,6 +28,6 @@ This is a list of some restaurants to take the colloquium speaker or other visit
 ## Map
 [**Table of Contents**](#table-of-contents)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NTE1NTQwOSwxNDA0NTgwMTA1LC0xMD
-M1MjE2OTQ0LDEwNzA4NjU5NzldfQ==
+eyJoaXN0b3J5IjpbMTM3OTM1NzIyNywxNDY1MTU1NDA5LDE0MD
+Q1ODAxMDUsLTEwMzUyMTY5NDQsMTA3MDg2NTk3OV19
 -->
